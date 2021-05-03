@@ -11,12 +11,12 @@
 
 
 <svelte:head>
-	<title>About</title>
+	<title>Landscaping</title>
 </svelte:head>
 
 <section>
 	<article>
-	About
+	Landscaping
 	</article>
 
 </section>

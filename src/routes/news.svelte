@@ -11,12 +11,12 @@
 
 
 <svelte:head>
-	<title>About</title>
+	<title>News</title>
 </svelte:head>
 
 <section>
 	<article>
-	About
+	News
 	</article>
 
 </section>
