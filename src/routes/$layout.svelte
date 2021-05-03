@@ -2,10 +2,12 @@
 	import '../app.css';
 	import { getStores, navigating, page, session } from '$app/stores';
 
-	$: console.log($page)
 </script>
 
 <style>
+	section {
+		min-width:360px
+	}
 	header {
 		position: absolute;
 		top:20px;
